@@ -32,7 +32,7 @@ The web app should now be running if there were no errors. Now, open another Ter
 
 You'll see output that looks something like this:
 
- 
+ ![web_address](web_address.png)
 
 In a new web browser window, type in the following:
 
@@ -45,7 +45,7 @@ You should be able to see the web app. The number 3001 represents the port where
 
 The web page looks like this: 
 
-
+![web](web.png)
 
 
 
