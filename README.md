@@ -12,6 +12,7 @@ A web app is being developed for the third stage of the project, where an emerge
 
 ## Instructions:
 1.	Run the following commands in the project's root directory to set up the database and model.
+
 •	To run ETL pipeline (process_data.py) that cleans data and stores in database titled “DisasterResponse.db”:
 
 “python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db”
@@ -23,6 +24,7 @@ A web app is being developed for the third stage of the project, where an emerge
 This code will take hours to run because of long list f the parameters for grid search. To examine the code faster, you can reduce the parameters.
 
 2.	To run the Web App from the Project Workspace IDE, open a new terminal window. Type in the command line:
+
 
 “python app/run.py”
 
